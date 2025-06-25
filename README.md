@@ -2,6 +2,8 @@
 
 Welcome to **Hair Day**, a clean and elegant website for a beauty salon, built using only **HTML** and **CSS**.
 
+🌐 **Live Demo**: [Hair Day - Web site](https://claracayres.github.io/HD-project-coursera/)
+
 > 🎓 This project was developed as part of the **HTML and CSS in depth** course from **Meta** on **Coursera**.
 
 It demonstrates the use of semantic HTML and responsive CSS to build a complete static site for a service-based business.
