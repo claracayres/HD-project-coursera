@@ -89,5 +89,5 @@ Feel free to use, adapt, and build upon this project. No license required for ed
 
 ---
 
-Made with 💖 by Clara Vayres 
+Made with 💖 by Clara Vayres <br>
 As part of the **Meta Front-End Developer** Professional Certificate on **Coursera**
